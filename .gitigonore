@@ -1,0 +1,4 @@
+node_modules/
+postal.db
+.env
+.DS_Store
